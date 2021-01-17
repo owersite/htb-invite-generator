@@ -2,7 +2,7 @@
 ![preview](look.gif)
 
 # Facts
-Fun part is that the whole generator is made only in 1 line, and the rest is just for design!
+Fun part is that the whole generator is made only in 1 line!
 
 # What is it special?
 This HackTheBox Invite Generator unlike others is first one made in batch!
