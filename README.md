@@ -11,5 +11,6 @@ If you like it give it a star, it is free!
 ![preview](others.png)
 
 
+
 # Disclaimer:
-For educational purposes only, (me)Owersite, is not resposible for whatever you do with this.
+### Owersite(creator of HTB(HackTheBox) Invite Generator & this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
