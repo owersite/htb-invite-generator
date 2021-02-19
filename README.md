@@ -1,6 +1,11 @@
 ## Hack The Box Invite Generator
 ![preview](look.gif)
 
+
+## T.O.S
+###### This repository/project is under MIT licence, if you are using it please leave watermark to the owner. (github.com/owersite)
+
+
 ### Facts
 Fun part is that the whole generator is made only in 1 line!
 
