@@ -17,4 +17,4 @@ If you like it give it a star, it is free!
 
 
 ## Disclaimer:
-#### Owersite(creator of this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
+#### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
