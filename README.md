@@ -16,6 +16,8 @@ Maybe not the first one, but i googled HTB Invite Generators and only found pyth
 If you like it give it a star, it is free!
 ![preview](others.png)
 
+###### I insipired someone to make same tool in python! Check it out: https://github.com/flowitoo/hackthebox-invite-generator
+
 
 ## Disclaimer:
 #### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
